@@ -1,0 +1,10 @@
+[general]
+name=parity
+author=angus
+firstlevel=7level
+start=11level
+
+[levels]
+levelid=4
+rolling_levelid=4
+
