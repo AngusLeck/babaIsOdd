@@ -11,3 +11,5 @@ This repo has a level pack with a meta level (map) which you can play, along wit
 2. Pull this repo 
 
 ```gh repo clone AngusLeck/babaIsOdd```
+
+3. Hopefully that worked? Let me know if not.
