@@ -8,7 +8,7 @@ This repo has a level pack with a meta level (map) which you can play, along wit
 
 ```cd .steam/steam/steamapps/common/"Baba Is You"/Data/Worlds```
 
-2. Pull this repo 
+2. Clone this repo 
 
 ```gh repo clone AngusLeck/babaIsOdd```
 
